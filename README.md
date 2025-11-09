@@ -1,4 +1,4 @@
-# 🧩 Software-Defined Networking (SDN) — Group Presentation  
+# Software-Defined Networking (SDN) — Group Presentation  
 **Course:** Mobile Computing (Frankfurt UAS)  
 **Duration:** ~40–45 minutes  
 **Group Members:**  
