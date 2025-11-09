@@ -62,7 +62,7 @@
 - **Control Layer:** centralized controller logic  
 - **Infrastructure Layer:** programmable forwarding elements
 
-![Placeholder – SDN Architecture Diagram](placeholder-sdn-architecture.png)
+![SDN Architecture Diagram](./images/sdn-architecture.png)
 
 ---
 
@@ -135,7 +135,7 @@
 - Flow table = match (e.g. src IP, dst port) + action (e.g., forward, drop)  
 - Controller modifies flow entries dynamically
 
-![Placeholder – Flow Table Entry](placeholder-flow-table.png)
+![Flow Table Entry](/images/flow-table.png)
 
 ---
 
@@ -178,7 +178,7 @@ priority: 100
 4. Sends Flow-Mod to switch  
 5. Rule installed, rest of flow forwarded at line-rate
 
-![Placeholder – Packet Flow Diagram](placeholder-packet-flow.png)
+![Packet Flow Diagram](./images/packet-flow.png)
 
 ---
 
@@ -210,7 +210,7 @@ priority: 100
 - SMF = control logic; UPF = data forwarding  
 - Traffic steering logic managed by SDN controller
 
-![Placeholder – SDN in 5G](placeholder-sdn-5g.png)
+![SDN in 5G](./images/sdn-5g.png)
 
 ---
 
