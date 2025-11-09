@@ -62,7 +62,7 @@
 - **Control Layer:** centralized controller logic  
 - **Infrastructure Layer:** programmable forwarding elements
 
-![SDN Architecture Diagram](./images/sdn-architecture.png)
+![SDN Architecture Diagram](./images/sdn-architecture.jpg)
 
 ---
 
